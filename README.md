@@ -29,9 +29,11 @@ I am an **Informatics Student** at **Universitas Surabaya (Ubaya)**, specializin
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=flat&logo=anaconda&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 
 <br/>
 
