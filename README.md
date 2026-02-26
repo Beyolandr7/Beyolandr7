@@ -75,9 +75,9 @@ I am an **Informatics Student** at **Universitas Surabaya (Ubaya)**, specializin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beyolandr7&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beyolandr7&show_icons=true&theme=radical" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beyolandr7&layout=compact&theme=radical&hide=jupyter%20notebook" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beyolandr7&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
