@@ -29,6 +29,7 @@ I am a third-year **Informatics student** at **Universitas Surabaya (Ubaya)** wi
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
@@ -37,16 +38,24 @@ I am a third-year **Informatics student** at **Universitas Surabaya (Ubaya)** wi
 <br/>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Hono-FF0082?style=flat&logo=hono&logoColor=white" />
 <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black" />
 <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=react-query&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
