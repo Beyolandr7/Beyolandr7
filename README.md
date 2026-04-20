@@ -69,7 +69,9 @@ I am an **Informatics Student** at **Universitas Surabaya (Ubaya)**, specializin
 | **Google Student Ambassador** | Promoting AI products & bridging the gap between students and technology. |
 | **Asst. Lecturer: Web Programming** | Teaching **PHP, HTML, CSS, jQuery**. |
 | **Asst. Lecturer: OS** | Teaching **Ubuntu Linux & C++**. |
-| **Asst. Lecturer: Software Eng.** | Teaching **BPMN, Figma**. |
-| **Asst. Lecturer: Databases** | Teaching **C#, SQL & ERD**. |
+| **Asst. Lecturer: Software Eng.** | Taught **BPMN, Figma**. |
+| **Asst. Lecturer: Databases** | Taught **C#, SQL & ERD**. |
+| **Web Developer** | Developing Web for **Koperasi PT. Central Proteina Prima, Tbk**. |
+| **Vice Coordinator of Information Technology Department** | Developing Web for **Masa Orientasi Bersama Fakultas Teknik 2026**. |
 
 ---
