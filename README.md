@@ -70,7 +70,7 @@ I am a third-year **Informatics student** at **Universitas Surabaya (Ubaya)** wi
 | Role | Organization | Period |
 | :--- | :--- | :--- |
 | **Web Developer** | **Koperasi PT. Central Proteina Prima, Tbk** | Mar 2026 – Present |
-| **Assistant Lecturer** | **Informatics Engineering Universitas Surabaya** | Mar 2026 – Present |
+| **Assistant Lecturer** | **Informatics Engineering Universitas Surabaya** | Mar 2025 – Present |
 | **Vice Coordinator of IT Department** | **Masa Orientasi Bersama Engineering Faculty Universitas Surabaya** | Mar 2026 – Present |
 | **Google Student Ambassador** | **Google Indonesia** | Sep 2025 – Dec 2025 |
 
