@@ -134,16 +134,16 @@
 
 <div align="center">
   <a href="https://github.com/Beyolandr7">
-    <img src="https://github-readme-stats.vercel.app/api?username=Beyolandr7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Darren's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Beyolandr7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="165" alt="Darren's GitHub Stats" />
   </a>
   <a href="https://github.com/Beyolandr7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beyolandr7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Beyolandr7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Beyolandr7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beyolandr7&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Beyolandr7&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
   </a>
 </div>
 
