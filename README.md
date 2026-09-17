@@ -143,7 +143,7 @@
 
 <div align="center">
   <a href="https://github.com/Beyolandr7">
-    <img src="https://streak-stats.demolab.com/?user=Beyolandr7&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beyolandr7&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
   </a>
 </div>
 
